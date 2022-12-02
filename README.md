@@ -1,6 +1,6 @@
 # The Yeti Chain Docs
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/yetichain.svg?label=optimismPBC&style=social)](https://twitter.com/yetichain)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yetichain.svg?label=Yetichain&style=social)](https://twitter.com/yetichain)
 
 Yeti is a Layer 1 Blockchain platform.
 
